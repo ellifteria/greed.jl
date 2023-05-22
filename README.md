@@ -7,7 +7,7 @@
    _ _   _| |_  __ _
   | | | | | | |/ _` |
   | | |_| | | | (_| |
- _/ |\\__'_|_|_|\\__'_|
+ _/ |\__'_|_|_|\__'_|
 |__/
 
 The Greed of Julia, adapted from Jeff Bezanson Stefan Karpinski Viral B. Shah Alan Edelman
